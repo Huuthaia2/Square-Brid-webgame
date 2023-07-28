@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>64C3347F2B4BC03339322B8A</RequestId>
+  <HostId>minigame-bundles.oss-ap-southeast-1-internal.aliyuncs.com</HostId>
+  <Key>square-bird/production/splash.png</Key>
+  <EC>0026-00000001</EC>
+</Error>
